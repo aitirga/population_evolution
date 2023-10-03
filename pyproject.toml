@@ -6,9 +6,10 @@ authors = ["Aitor <aitirga@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.8,<3.9.7 || >3.9.7,<3.12"
+python = ">=3.9,<3.9.7 || >3.9.7,<3.12"
 streamlit = "^1.27.1"
 manim = "^0.17.3"
+matplotlib = "^3.8.0"
 
 
 [build-system]
